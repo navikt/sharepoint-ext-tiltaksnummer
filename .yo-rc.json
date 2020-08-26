@@ -1,0 +1,13 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.11.0",
+    "libraryName": "sharepoint-ext-tiltaksnummer",
+    "libraryId": "fe1167fc-2664-4129-9db9-8b46749592e6",
+    "packageManager": "npm",
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "FieldCustomizer"
+  }
+}

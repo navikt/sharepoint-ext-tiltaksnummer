@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <Field ID="{1fe8d7ce-0cf6-4930-97e1-0337851c2a61}"
+            Name="Tiltaksnummer"
+            DisplayName="Tiltaksnummer"
+            Type="Text"
+            Required="FALSE"
+            Group="NAV Columns"
+            ClientSideComponentId="9675421e-54b5-4edb-84f6-05f5b43d7765">
+    </Field>
+</Elements>

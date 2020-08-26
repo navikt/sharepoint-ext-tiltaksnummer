@@ -1,0 +1,25 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/core-build/serve.schema.json",
+  "port": 4321,
+  "https": true,
+  "serveConfigurations": {
+    "default": {
+      "pageUrl": "https://navno.sharepoint.com/sites/enhet-rogaland/Lists/AMO%20kurs/AllItems.aspx",
+      "fieldCustomizers": {
+        "Tiltaksnummer": {
+          "id": "9675421e-54b5-4edb-84f6-05f5b43d7765",
+          "properties": {}
+        }
+      }
+    },
+    "tiltaksnummer": {
+      "pageUrl": "https://navno.sharepoint.com/sites/enhet-rogaland/Lists/AMO%20kurs/AllItems.aspx",
+      "fieldCustomizers": {
+        "Tiltaksnummer": {
+          "id": "9675421e-54b5-4edb-84f6-05f5b43d7765",
+          "properties": {}
+        }
+      }
+    }
+  }
+}

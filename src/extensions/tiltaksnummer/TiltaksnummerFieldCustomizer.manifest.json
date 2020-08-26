@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx/client-side-extension-manifest.schema.json",
+
+  "id": "9675421e-54b5-4edb-84f6-05f5b43d7765",
+  "alias": "TiltaksnummerFieldCustomizer",
+  "componentType": "Extension",
+  "extensionType": "FieldCustomizer",
+
+  "version": "*",
+  "manifestVersion": 2,
+
+  "requiresCustomScript": false
+}
